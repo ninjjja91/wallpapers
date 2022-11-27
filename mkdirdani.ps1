@@ -1,0 +1,1 @@
+Invoke-WebRequest "https://raw.githubusercontent.com/ninjjja91/wallpapers/main/1518564.png" -OutFile "C:\Windows\Temp\1212.png"
